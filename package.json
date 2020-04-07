@@ -1,0 +1,32 @@
+{
+    "name": "nuxt-typeform",
+    "version": "0.0.1",
+    "description": "Embed Typeform surveys in your NuxtJS application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jgmullor/nuxt-typeform.git"
+    },
+    "keywords": [
+        "nuxtJS",
+        "vue",
+        "typeform",
+        "vuejs"
+    ],
+    "author": "Jose Gilberto Mullor <gilber@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jgmullor/nuxt-typeform/issues"
+    },
+    "homepage": "https://github.com/jgmullor/nuxt-typeform",
+    "dependencies": {
+        "@typeform/embed": "^0.16"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-plugin-vue": "^7.0.0-alpha.0"
+    }
+}
